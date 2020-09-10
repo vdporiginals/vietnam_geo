@@ -83,7 +83,7 @@
         "cartodb_id": 21,
         "id_1": 23,
         "name": "Hà Nội",
-        "slug": "vietnam-hanoicityhanoi",
+        "slug": "ha-noi",
         "id_region": "2"
       }
     },
@@ -123,7 +123,7 @@
         "cartodb_id": 35,
         "id_1": 16,
         "name": "Bắc Ninh",
-        "slug": "vietnam-bacninh",
+        "slug": "bac-ninh",
         "id_region": "2"
       }
     },
@@ -165,7 +165,7 @@
         "cartodb_id": 18,
         "id_1": 24,
         "name": "Hà Nam",
-        "slug": "vietnam-hanam",
+        "slug": "ha-nam",
         "id_region": "2"
       }
     },
@@ -222,7 +222,7 @@
         "cartodb_id": 19,
         "id_1": 29,
         "name": "Hải Dương",
-        "slug": "vietnam-haiduong",
+        "slug": "hai-duong",
         "id_region": "2"
       }
     },
@@ -350,7 +350,7 @@
         "cartodb_id": 56,
         "id_1": 30,
         "name": "Hải Phòng",
-        "slug": "vietnam-haiphongcityhaiphong",
+        "slug": "hai-phong",
         "id_region": "2"
       }
     },
@@ -388,7 +388,7 @@
         "cartodb_id": 57,
         "id_1": 28,
         "name": "Hưng Yên",
-        "slug": "vietnam-hungyen",
+        "slug": "hung-yen",
         "id_region": "2"
       }
     },
@@ -450,7 +450,7 @@
         "cartodb_id": 28,
         "id_1": 40,
         "name": "Nam Định",
-        "slug": "vietnam-namdinh",
+        "slug": "nam-dinh",
         "id_region": "2"
       }
     },
@@ -516,7 +516,7 @@
         "cartodb_id": 24,
         "id_1": 54,
         "name": "Thái Bình",
-        "slug": "vietnam-thaibinh",
+        "slug": "thai-binh",
         "id_region": "2"
       }
     },
@@ -566,7 +566,7 @@
         "cartodb_id": 10,
         "id_1": 62,
         "name": "Vĩnh Phúc",
-        "slug": "vietnam-vinhphuc",
+        "slug": "vinh-phuc",
         "id_region": "2"
       }
     },
@@ -612,7 +612,7 @@
         "cartodb_id": 31,
         "id_1": 42,
         "name": "Ninh Bình",
-        "slug": "vietnam-ninhbinh",
+        "slug": "ninh-binh",
         "id_region": "2"
       }
     }

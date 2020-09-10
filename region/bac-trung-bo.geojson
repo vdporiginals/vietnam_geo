@@ -63,7 +63,7 @@
         "cartodb_id": 29,
         "id_1": 46,
         "name": "Quảng Bình",
-        "slug": "vietnam-quangbinh",
+        "slug": "quang-binh",
         "id_region": "5"
       }
     },
@@ -150,7 +150,7 @@
         "cartodb_id": 39,
         "id_1": 56,
         "name": "Thừa Thiên - Huế",
-        "slug": "vietnam-thuathienhue",
+        "slug": "thua-thien-hue",
         "id_region": "5"
       }
     },
@@ -253,7 +253,7 @@
         "cartodb_id": 46,
         "id_1": 57,
         "name": "Thanh Hóa",
-        "slug": "vietnam-thanhhoa",
+        "slug": "thanh-hoa",
         "id_region": "5"
       }
     },
@@ -324,7 +324,7 @@
         "cartodb_id": 59,
         "id_1": 50,
         "name": "Quảng Trị",
-        "slug": "vietnam-quangtri",
+        "slug": "quang-tri",
         "id_region": "5"
       }
     },
@@ -400,7 +400,7 @@
         "cartodb_id": 37,
         "id_1": 25,
         "name": "Hà Tĩnh",
-        "slug": "vietnam-hatinh",
+        "slug": "ha-tinh",
         "id_region": "5"
       }
     },
@@ -497,7 +497,7 @@
         "cartodb_id": 42,
         "id_1": 41,
         "name": "Nghệ An",
-        "slug": "vietnam-nghean",
+        "slug": "nghe-an",
         "id_region": "5"
       }
     }

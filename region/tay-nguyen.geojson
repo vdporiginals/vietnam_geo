@@ -69,7 +69,7 @@
         "cartodb_id": 50,
         "id_1": 5,
         "name": "Đắk Lắk",
-        "slug": "vietnam-daklakdaclac",
+        "slug": "dak-lak",
         "id_region": "8"
       }
     },
@@ -134,7 +134,7 @@
         "cartodb_id": 34,
         "id_1": 4,
         "name": "Đăk Nông",
-        "slug": "vietnam-dacnong",
+        "slug": "dak-nong",
         "id_region": "8"
       }
     },
@@ -215,7 +215,7 @@
         "cartodb_id": 7,
         "id_1": 34,
         "name": "Kon Tum",
-        "slug": "vietnam-kontum",
+        "slug": "kon-tum",
         "id_region": "8"
       }
     },
@@ -301,7 +301,7 @@
         "cartodb_id": 23,
         "id_1": 36,
         "name": "Lâm Đồng",
-        "slug": "vietnam-lamdong",
+        "slug": "lam-dong",
         "id_region": "8"
       }
     },
@@ -396,7 +396,7 @@
         "cartodb_id": 38,
         "id_1": 21,
         "name": "Gia Lai",
-        "slug": "vietnam-gialai",
+        "slug": "gia-lai",
         "id_region": "8"
       }
     }

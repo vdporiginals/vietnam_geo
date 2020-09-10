@@ -87,7 +87,7 @@
         "cartodb_id": 48,
         "id_1": 27,
         "name": "Hòa Bình",
-        "slug": "vietnam-hoabinh",
+        "slug": "hoa-binh",
         "id_region": "7"
       }
     },
@@ -159,7 +159,7 @@
         "cartodb_id": 6,
         "id_1": 35,
         "name": "Lào Cai",
-        "slug": "vietnam-laocai",
+        "slug": "lao-cai",
         "id_region": "7"
       }
     },
@@ -257,7 +257,7 @@
         "cartodb_id": 49,
         "id_1": 37,
         "name": "Lai Châu",
-        "slug": "vietnam-laichau",
+        "slug": "lai-chau",
         "id_region": "7"
       }
     },
@@ -341,7 +341,7 @@
         "cartodb_id": 5,
         "id_1": 63,
         "name": "Yên Bái",
-        "slug": "vietnam-yenbai",
+        "slug": "yen-bai",
         "id_region": "7"
       }
     },
@@ -444,7 +444,7 @@
         "cartodb_id": 43,
         "id_1": 6,
         "name": "Điện Biên",
-        "slug": "vietnam-dienbien",
+        "slug": "dien-bien",
         "id_region": "7"
       }
     },
@@ -555,7 +555,7 @@
         "cartodb_id": 55,
         "id_1": 52,
         "name": "Sơn La",
-        "slug": "vietnam-sonla",
+        "slug": "son-la",
         "id_region": "7"
       }
     }

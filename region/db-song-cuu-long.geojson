@@ -38,7 +38,7 @@
         "cartodb_id": 60,
         "id_1": 17,
         "name": "Bến Tre",
-        "slug": "vietnam-bentre",
+        "slug": "ben-tre",
         "id_region": "1"
       }
     },
@@ -75,7 +75,7 @@
         "cartodb_id": 61,
         "id_1": 20,
         "name": "Cần Thơ",
-        "slug": "vietnam-cantho",
+        "slug": "can-tho",
         "id_region": "1"
       }
     },
@@ -120,7 +120,7 @@
         "cartodb_id": 54,
         "id_1": 7,
         "name": "An Giang",
-        "slug": "vietnam-angiang",
+        "slug": "an-giang",
         "id_region": "1"
       }
     },
@@ -166,7 +166,7 @@
         "cartodb_id": 27,
         "id_1": 13,
         "name": "Bạc Liêu",
-        "slug": "vietnam-baclieu",
+        "slug": "bac-lieu",
         "id_region": "1"
       }
     },
@@ -223,7 +223,7 @@
         "cartodb_id": 8,
         "id_1": 39,
         "name": "Long An",
-        "slug": "vietnam-longan",
+        "slug": "long-an",
         "id_region": "1"
       }
     },
@@ -313,7 +313,7 @@
         "cartodb_id": 26,
         "id_1": 18,
         "name": "Cà Mau",
-        "slug": "vietnam-camau",
+        "slug": "ca-mau",
         "id_region": "1"
       }
     },
@@ -352,7 +352,7 @@
         "cartodb_id": 9,
         "id_1": 51,
         "name": "Sóc Trăng",
-        "slug": "vietnam-soctrang",
+        "slug": "soc-trang",
         "id_region": "1"
       }
     },
@@ -389,7 +389,7 @@
         "cartodb_id": 45,
         "id_1": 31,
         "name": "Hậu Giang",
-        "slug": "vietnam-haugiang",
+        "slug": "hau-giang",
         "id_region": "1"
       }
     },
@@ -430,7 +430,7 @@
         "cartodb_id": 30,
         "id_1": 59,
         "name": "Trà Vinh",
-        "slug": "vietnam-travinh",
+        "slug": "tra-vinh",
         "id_region": "1"
       }
     },
@@ -482,7 +482,7 @@
         "cartodb_id": 33,
         "id_1": 3,
         "name": "Đồng Tháp",
-        "slug": "vietnam-dongthap",
+        "slug": "dong-thap",
         "id_region": "1"
       }
     },
@@ -523,7 +523,7 @@
         "cartodb_id": 51,
         "id_1": 61,
         "name": "Vĩnh Long",
-        "slug": "vietnam-vinhlong",
+        "slug": "vinh-long",
         "id_region": "1"
       }
     },
@@ -645,7 +645,7 @@
         "cartodb_id": 17,
         "id_1": 33,
         "name": "Kiên Giang",
-        "slug": "vietnam-kiengiang",
+        "slug": "kien-giang",
         "id_region": "1"
       }
     },
@@ -694,7 +694,7 @@
         "cartodb_id": 15,
         "id_1": 58,
         "name": "Tiền Giang",
-        "slug": "vietnam-tiengiang",
+        "slug": "tien-giang",
         "id_region": "1"
       }
     }

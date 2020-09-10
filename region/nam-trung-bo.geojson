@@ -73,7 +73,7 @@
         "cartodb_id": 44,
         "id_1": 12,
         "name": "Bình Thuận",
-        "slug": "vietnam-binhthuan",
+        "slug": "binh-thuan",
         "id_region": "6"
       }
     },
@@ -123,7 +123,7 @@
         "cartodb_id": 1,
         "id_1": 43,
         "name": "Ninh Thuận",
-        "slug": "vietnam-ninhthuan",
+        "slug": "ninh-thuan",
         "id_region": "6"
       }
     },
@@ -168,7 +168,7 @@
         "cartodb_id": 14,
         "id_1": 1,
         "name": "Đà Nẵng",
-        "slug": "vietnam-danangcitydanang",
+        "slug": "da-nang",
         "id_region": "6"
       }
     },
@@ -240,7 +240,7 @@
         "cartodb_id": 2,
         "id_1": 48,
         "name": "Quảng Ngãi",
-        "slug": "vietnam-quangngai",
+        "slug": "quang-ngai",
         "id_region": "6"
       }
     },
@@ -321,7 +321,7 @@
         "cartodb_id": 3,
         "id_1": 9,
         "name": "Bình Định",
-        "slug": "vietnam-binhdinh",
+        "slug": "binh-dinh",
         "id_region": "6"
       }
     },
@@ -465,7 +465,7 @@
         "cartodb_id": 4,
         "id_1": 32,
         "name": "Khánh Hòa",
-        "slug": "vietnam-khanhhoa",
+        "slug": "khanh-hoa",
         "id_region": "6"
       }
     },
@@ -560,7 +560,7 @@
         "cartodb_id": 41,
         "id_1": 47,
         "name": "Quảng Nam",
-        "slug": "vietnam-quangnam",
+        "slug": "quang-nam",
         "id_region": "6"
       }
     },
@@ -645,7 +645,7 @@
         "cartodb_id": 53,
         "id_1": 45,
         "name": "Phú Yên",
-        "slug": "vietnam-phuyen",
+        "slug": "phu-yen",
         "id_region": "6"
       }
     }

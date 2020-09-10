@@ -55,7 +55,7 @@
         "cartodb_id": 11,
         "id_1": 44,
         "name": "Phú Thọ",
-        "slug": "vietnam-phutho",
+        "slug": "phu-tho",
         "id_region": "3"
       }
     },
@@ -149,7 +149,7 @@
         "cartodb_id": 63,
         "id_1": 22,
         "name": "Hà Giang",
-        "slug": "vietnam-hagiang",
+        "slug": "ha-giang",
         "id_region": "3"
       }
     },
@@ -224,7 +224,7 @@
         "cartodb_id": 52,
         "id_1": 60,
         "name": "Tuyên Quang",
-        "slug": "vietnam-tuyenquang",
+        "slug": "tuyen-quang",
         "id_region": "3"
       }
     },
@@ -297,7 +297,7 @@
         "cartodb_id": 20,
         "id_1": 19,
         "name": "Cao Bằng",
-        "slug": "vietnam-caobang",
+        "slug": "cao-bang",
         "id_region": "3"
       }
     },
@@ -356,7 +356,7 @@
         "cartodb_id": 40,
         "id_1": 15,
         "name": "Bắc Kạn",
-        "slug": "vietnam-backanbaccan",
+        "slug": "bac-kan",
         "id_region": "3"
       }
     },
@@ -410,7 +410,7 @@
         "cartodb_id": 13,
         "id_1": 55,
         "name": "Thái Nguyên",
-        "slug": "vietnam-thainguyen",
+        "slug": "thai-nguyen",
         "id_region": "3"
       }
     },
@@ -499,7 +499,7 @@
         "cartodb_id": 12,
         "id_1": 38,
         "name": "Lạng Sơn",
-        "slug": "vietnam-langson",
+        "slug": "lang-son",
         "id_region": "3"
       }
     },
@@ -572,7 +572,7 @@
         "cartodb_id": 32,
         "id_1": 14,
         "name": "Bắc Giang",
-        "slug": "vietnam-bacgiang",
+        "slug": "bac-giang",
         "id_region": "3"
       }
     },
@@ -1137,7 +1137,7 @@
         "cartodb_id": 62,
         "id_1": 49,
         "name": "Quảng Ninh",
-        "slug": "vietnam-quangninh",
+        "slug": "quang-ninh",
         "id_region": "3"
       }
     }
