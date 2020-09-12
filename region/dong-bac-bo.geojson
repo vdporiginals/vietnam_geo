@@ -56,7 +56,7 @@
         "id_1": 44,
         "name": "Phú Thọ",
         "slug": "phu-tho",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -150,7 +150,7 @@
         "id_1": 22,
         "name": "Hà Giang",
         "slug": "ha-giang",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -225,7 +225,7 @@
         "id_1": 60,
         "name": "Tuyên Quang",
         "slug": "tuyen-quang",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -298,7 +298,7 @@
         "id_1": 19,
         "name": "Cao Bằng",
         "slug": "cao-bang",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -357,7 +357,7 @@
         "id_1": 15,
         "name": "Bắc Kạn",
         "slug": "bac-kan",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -411,7 +411,7 @@
         "id_1": 55,
         "name": "Thái Nguyên",
         "slug": "thai-nguyen",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -500,7 +500,7 @@
         "id_1": 38,
         "name": "Lạng Sơn",
         "slug": "lang-son",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -573,7 +573,7 @@
         "id_1": 14,
         "name": "Bắc Giang",
         "slug": "bac-giang",
-        "id_region": "3"
+        "id_region": "2"
       }
     },
     {
@@ -1138,7 +1138,7 @@
         "id_1": 49,
         "name": "Quảng Ninh",
         "slug": "quang-ninh",
-        "id_region": "3"
+        "id_region": "2"
       }
     }
   ]

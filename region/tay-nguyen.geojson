@@ -70,7 +70,7 @@
         "id_1": 5,
         "name": "Đắk Lắk",
         "slug": "dak-lak",
-        "id_region": "8"
+        "id_region": "7"
       }
     },
     {
@@ -135,7 +135,7 @@
         "id_1": 4,
         "name": "Đăk Nông",
         "slug": "dak-nong",
-        "id_region": "8"
+        "id_region": "7"
       }
     },
     {
@@ -216,7 +216,7 @@
         "id_1": 34,
         "name": "Kon Tum",
         "slug": "kon-tum",
-        "id_region": "8"
+        "id_region": "7"
       }
     },
     {
@@ -302,7 +302,7 @@
         "id_1": 36,
         "name": "Lâm Đồng",
         "slug": "lam-dong",
-        "id_region": "8"
+        "id_region": "7"
       }
     },
     {
@@ -397,7 +397,7 @@
         "id_1": 21,
         "name": "Gia Lai",
         "slug": "gia-lai",
-        "id_region": "8"
+        "id_region": "7"
       }
     }
   ]

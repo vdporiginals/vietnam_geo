@@ -39,7 +39,7 @@
         "id_1": 17,
         "name": "Bến Tre",
         "slug": "ben-tre",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -76,7 +76,7 @@
         "id_1": 20,
         "name": "Cần Thơ",
         "slug": "can-tho",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -121,7 +121,7 @@
         "id_1": 7,
         "name": "An Giang",
         "slug": "an-giang",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -167,7 +167,7 @@
         "id_1": 13,
         "name": "Bạc Liêu",
         "slug": "bac-lieu",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -224,7 +224,7 @@
         "id_1": 39,
         "name": "Long An",
         "slug": "long-an",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -314,7 +314,7 @@
         "id_1": 18,
         "name": "Cà Mau",
         "slug": "ca-mau",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -353,7 +353,7 @@
         "id_1": 51,
         "name": "Sóc Trăng",
         "slug": "soc-trang",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -390,7 +390,7 @@
         "id_1": 31,
         "name": "Hậu Giang",
         "slug": "hau-giang",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -431,7 +431,7 @@
         "id_1": 59,
         "name": "Trà Vinh",
         "slug": "tra-vinh",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -483,7 +483,7 @@
         "id_1": 3,
         "name": "Đồng Tháp",
         "slug": "dong-thap",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -524,7 +524,7 @@
         "id_1": 61,
         "name": "Vĩnh Long",
         "slug": "vinh-long",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -646,7 +646,7 @@
         "id_1": 33,
         "name": "Kiên Giang",
         "slug": "kien-giang",
-        "id_region": "1"
+        "id_region": "9"
       }
     },
     {
@@ -695,7 +695,7 @@
         "id_1": 58,
         "name": "Tiền Giang",
         "slug": "tien-giang",
-        "id_region": "1"
+        "id_region": "9"
       }
     }
   ]

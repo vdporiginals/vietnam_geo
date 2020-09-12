@@ -88,7 +88,7 @@
         "id_1": 27,
         "name": "Hòa Bình",
         "slug": "hoa-binh",
-        "id_region": "7"
+        "id_region": "3"
       }
     },
     {
@@ -160,7 +160,7 @@
         "id_1": 35,
         "name": "Lào Cai",
         "slug": "lao-cai",
-        "id_region": "7"
+        "id_region": "3"
       }
     },
     {
@@ -258,7 +258,7 @@
         "id_1": 37,
         "name": "Lai Châu",
         "slug": "lai-chau",
-        "id_region": "7"
+        "id_region": "3"
       }
     },
     {
@@ -342,7 +342,7 @@
         "id_1": 63,
         "name": "Yên Bái",
         "slug": "yen-bai",
-        "id_region": "7"
+        "id_region": "3"
       }
     },
     {
@@ -445,7 +445,7 @@
         "id_1": 6,
         "name": "Điện Biên",
         "slug": "dien-bien",
-        "id_region": "7"
+        "id_region": "3"
       }
     },
     {
@@ -556,7 +556,7 @@
         "id_1": 52,
         "name": "Sơn La",
         "slug": "son-la",
-        "id_region": "7"
+        "id_region": "3"
       }
     }
   ]

@@ -84,7 +84,7 @@
         "id_1": 23,
         "name": "Hà Nội",
         "slug": "ha-noi",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -124,7 +124,7 @@
         "id_1": 16,
         "name": "Bắc Ninh",
         "slug": "bac-ninh",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -166,7 +166,7 @@
         "id_1": 24,
         "name": "Hà Nam",
         "slug": "ha-nam",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -223,7 +223,7 @@
         "id_1": 29,
         "name": "Hải Dương",
         "slug": "hai-duong",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -351,7 +351,7 @@
         "id_1": 30,
         "name": "Hải Phòng",
         "slug": "hai-phong",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -389,7 +389,7 @@
         "id_1": 28,
         "name": "Hưng Yên",
         "slug": "hung-yen",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -451,7 +451,7 @@
         "id_1": 40,
         "name": "Nam Định",
         "slug": "nam-dinh",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -517,7 +517,7 @@
         "id_1": 54,
         "name": "Thái Bình",
         "slug": "thai-binh",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -567,7 +567,7 @@
         "id_1": 62,
         "name": "Vĩnh Phúc",
         "slug": "vinh-phuc",
-        "id_region": "2"
+        "id_region": "4"
       }
     },
     {
@@ -613,7 +613,7 @@
         "id_1": 42,
         "name": "Ninh Bình",
         "slug": "ninh-binh",
-        "id_region": "2"
+        "id_region": "4"
       }
     }
   ]

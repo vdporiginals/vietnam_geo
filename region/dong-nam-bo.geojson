@@ -159,7 +159,7 @@
         "id_1": 26,
         "name": "Hồ Chí Minh city",
         "slug": "ho-chi-minh-city",
-        "id_region": "4"
+        "id_region": "8"
       }
     },
     {
@@ -279,7 +279,7 @@
         "id_1": 8,
         "name": "Bà Rịa - Vũng Tàu",
         "slug": "ba-ria-vung-tau",
-        "id_region": "4"
+        "id_region": "8"
       }
     },
     {
@@ -337,7 +337,7 @@
         "id_1": 10,
         "name": "Bình Dương",
         "slug": "binh-duong",
-        "id_region": "4"
+        "id_region": "8"
       }
     },
     {
@@ -400,7 +400,7 @@
         "id_1": 11,
         "name": "Bình Phước",
         "slug": "binh-phuoc",
-        "id_region": "4"
+        "id_region": "8"
       }
     },
     {
@@ -494,7 +494,7 @@
         "id_1": 2,
         "name": "Đồng Nai",
         "slug": "dong-nai",
-        "id_region": "4"
+        "id_region": "8"
       }
     },
     {
@@ -549,7 +549,7 @@
         "id_1": 53,
         "name": "Tây Ninh",
         "slug": "tay-ninh",
-        "id_region": "4"
+        "id_region": "8"
       }
     }
   ]
