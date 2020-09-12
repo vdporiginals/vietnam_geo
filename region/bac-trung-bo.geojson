@@ -61,7 +61,7 @@
       },
       "properties": {
         "cartodb_id": 29,
-        "id_1": 46,
+        "id_1": 29,
         "name": "Quảng Bình",
         "slug": "quang-binh",
         "id_region": "5"
@@ -147,8 +147,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 39,
-        "id_1": 56,
+        "cartodb_id": 31,
+        "id_1": 31,
         "name": "Thừa Thiên - Huế",
         "slug": "thua-thien-hue",
         "id_region": "5"
@@ -250,8 +250,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 46,
-        "id_1": 57,
+        "cartodb_id": 26,
+        "id_1": 26,
         "name": "Thanh Hóa",
         "slug": "thanh-hoa",
         "id_region": "5"
@@ -321,8 +321,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 59,
-        "id_1": 50,
+        "cartodb_id": 30,
+        "id_1": 30,
         "name": "Quảng Trị",
         "slug": "quang-tri",
         "id_region": "5"
@@ -397,8 +397,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 37,
-        "id_1": 25,
+        "cartodb_id": 28,
+        "id_1": 28,
         "name": "Hà Tĩnh",
         "slug": "ha-tinh",
         "id_region": "5"
@@ -494,8 +494,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 42,
-        "id_1": 41,
+        "cartodb_id": 27,
+        "id_1": 27,
         "name": "Nghệ An",
         "slug": "nghe-an",
         "id_region": "5"

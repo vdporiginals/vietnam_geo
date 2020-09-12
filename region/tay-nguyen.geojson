@@ -66,8 +66,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 50,
-        "id_1": 5,
+        "cartodb_id": 42,
+        "id_1": 42,
         "name": "Đắk Lắk",
         "slug": "dak-lak",
         "id_region": "7"
@@ -131,8 +131,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 34,
-        "id_1": 4,
+        "cartodb_id": 43
+        "id_1": 43,
         "name": "Đăk Nông",
         "slug": "dak-nong",
         "id_region": "7"
@@ -212,8 +212,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 7,
-        "id_1": 34,
+        "cartodb_id": 40,
+        "id_1": 40,
         "name": "Kon Tum",
         "slug": "kon-tum",
         "id_region": "7"
@@ -298,8 +298,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 23,
-        "id_1": 36,
+        "cartodb_id": 44,
+        "id_1": 44,
         "name": "Lâm Đồng",
         "slug": "lam-dong",
         "id_region": "7"
@@ -393,8 +393,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 38,
-        "id_1": 21,
+        "cartodb_id": 41,
+        "id_1": 41,
         "name": "Gia Lai",
         "slug": "gia-lai",
         "id_region": "7"

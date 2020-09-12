@@ -80,8 +80,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 21,
-        "id_1": 23,
+        "cartodb_id": 1,
+        "id_1": 1,
         "name": "Hà Nội",
         "slug": "ha-noi",
         "id_region": "4"
@@ -120,8 +120,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 35,
-        "id_1": 16,
+        "cartodb_id": 18,
+        "id_1": 18,
         "name": "Bắc Ninh",
         "slug": "bac-ninh",
         "id_region": "4"
@@ -162,8 +162,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 18,
-        "id_1": 24,
+        "cartodb_id": 23,
+        "id_1": 23,
         "name": "Hà Nam",
         "slug": "ha-nam",
         "id_region": "4"
@@ -220,7 +220,7 @@
       },
       "properties": {
         "cartodb_id": 19,
-        "id_1": 29,
+        "id_1": 19,
         "name": "Hải Dương",
         "slug": "hai-duong",
         "id_region": "4"
@@ -347,8 +347,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 56,
-        "id_1": 30,
+        "cartodb_id": 20,
+        "id_1": 20,
         "name": "Hải Phòng",
         "slug": "hai-phong",
         "id_region": "4"
@@ -385,8 +385,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 57,
-        "id_1": 28,
+        "cartodb_id": 21,
+        "id_1": 21,
         "name": "Hưng Yên",
         "slug": "hung-yen",
         "id_region": "4"
@@ -447,8 +447,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 28,
-        "id_1": 40,
+        "cartodb_id": 24,
+        "id_1": 24,
         "name": "Nam Định",
         "slug": "nam-dinh",
         "id_region": "4"
@@ -513,8 +513,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 24,
-        "id_1": 54,
+        "cartodb_id": 22,
+        "id_1": 22,
         "name": "Thái Bình",
         "slug": "thai-binh",
         "id_region": "4"
@@ -563,8 +563,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 10,
-        "id_1": 62,
+        "cartodb_id": 17,
+        "id_1": 17,
         "name": "Vĩnh Phúc",
         "slug": "vinh-phuc",
         "id_region": "4"
@@ -609,8 +609,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 31,
-        "id_1": 42,
+        "cartodb_id": 25,
+        "id_1": 25,
         "name": "Ninh Bình",
         "slug": "ninh-binh",
         "id_region": "4"

@@ -84,8 +84,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 48,
-        "id_1": 27,
+        "cartodb_id": 11,
+        "id_1": 11,
         "name": "Hòa Bình",
         "slug": "hoa-binh",
         "id_region": "3"
@@ -157,7 +157,7 @@
       },
       "properties": {
         "cartodb_id": 6,
-        "id_1": 35,
+        "id_1": 6,
         "name": "Lào Cai",
         "slug": "lao-cai",
         "id_region": "3"
@@ -254,8 +254,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 49,
-        "id_1": 37,
+        "cartodb_id": 8,
+        "id_1": 8,
         "name": "Lai Châu",
         "slug": "lai-chau",
         "id_region": "3"
@@ -338,8 +338,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 5,
-        "id_1": 63,
+        "cartodb_id": 10,
+        "id_1": 10,
         "name": "Yên Bái",
         "slug": "yen-bai",
         "id_region": "3"
@@ -441,8 +441,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 43,
-        "id_1": 6,
+        "cartodb_id": 7,
+        "id_1": 7,
         "name": "Điện Biên",
         "slug": "dien-bien",
         "id_region": "3"
@@ -552,8 +552,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 55,
-        "id_1": 52,
+        "cartodb_id": 9,
+        "id_1": 9,
         "name": "Sơn La",
         "slug": "son-la",
         "id_region": "3"

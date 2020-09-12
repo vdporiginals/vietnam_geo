@@ -70,8 +70,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 44,
-        "id_1": 12,
+        "cartodb_id": 39,
+        "id_1": 39,
         "name": "Bình Thuận",
         "slug": "binh-thuan",
         "id_region": "6"
@@ -120,8 +120,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 1,
-        "id_1": 43,
+        "cartodb_id": 38,
+        "id_1": 38,
         "name": "Ninh Thuận",
         "slug": "ninh-thuan",
         "id_region": "6"
@@ -165,8 +165,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 14,
-        "id_1": 1,
+        "cartodb_id": 32,
+        "id_1": 32,
         "name": "Đà Nẵng",
         "slug": "da-nang",
         "id_region": "6"
@@ -237,8 +237,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 2,
-        "id_1": 48,
+        "cartodb_id": 34,
+        "id_1": 34,
         "name": "Quảng Ngãi",
         "slug": "quang-ngai",
         "id_region": "6"
@@ -318,8 +318,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 3,
-        "id_1": 9,
+        "cartodb_id": 35,
+        "id_1": 35,
         "name": "Bình Định",
         "slug": "binh-dinh",
         "id_region": "6"
@@ -462,8 +462,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 4,
-        "id_1": 32,
+        "cartodb_id": 37,
+        "id_1": 37,
         "name": "Khánh Hòa",
         "slug": "khanh-hoa",
         "id_region": "6"
@@ -557,8 +557,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 41,
-        "id_1": 47,
+        "cartodb_id": 33,
+        "id_1": 33,
         "name": "Quảng Nam",
         "slug": "quang-nam",
         "id_region": "6"
@@ -642,7 +642,7 @@
         ]
       },
       "properties": {
-        "cartodb_id": 53,
+        "cartodb_id": 36,
         "id_1": 45,
         "name": "Phú Yên",
         "slug": "phu-yen",

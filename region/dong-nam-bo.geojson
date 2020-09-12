@@ -155,8 +155,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 36,
-        "id_1": 26,
+        "cartodb_id": 50,
+        "id_1": 50,
         "name": "Hồ Chí Minh city",
         "slug": "ho-chi-minh-city",
         "id_region": "8"
@@ -275,8 +275,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 58,
-        "id_1": 8,
+        "cartodb_id": 49,
+        "id_1": 49,
         "name": "Bà Rịa - Vũng Tàu",
         "slug": "ba-ria-vung-tau",
         "id_region": "8"
@@ -333,8 +333,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 16,
-        "id_1": 10,
+        "cartodb_id": 47,
+        "id_1": 47,
         "name": "Bình Dương",
         "slug": "binh-duong",
         "id_region": "8"
@@ -490,8 +490,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 25,
-        "id_1": 2,
+        "cartodb_id": 48,
+        "id_1": 48,
         "name": "Đồng Nai",
         "slug": "dong-nai",
         "id_region": "8"
@@ -545,8 +545,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 22,
-        "id_1": 53,
+        "cartodb_id": 46,
+        "id_1": 46,
         "name": "Tây Ninh",
         "slug": "tay-ninh",
         "id_region": "8"

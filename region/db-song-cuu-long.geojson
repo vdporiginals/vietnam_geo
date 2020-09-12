@@ -35,8 +35,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 60,
-        "id_1": 17,
+        "cartodb_id": 53,
+        "id_1": 53,
         "name": "Bến Tre",
         "slug": "ben-tre",
         "id_region": "9"
@@ -72,8 +72,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 61,
-        "id_1": 20,
+        "cartodb_id": 59,
+        "id_1": 59,
         "name": "Cần Thơ",
         "slug": "can-tho",
         "id_region": "9"
@@ -117,8 +117,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 54,
-        "id_1": 7,
+        "cartodb_id": 57,
+        "id_1": 57,
         "name": "An Giang",
         "slug": "an-giang",
         "id_region": "9"
@@ -163,8 +163,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 27,
-        "id_1": 13,
+        "cartodb_id": 62,
+        "id_1": 62,
         "name": "Bạc Liêu",
         "slug": "bac-lieu",
         "id_region": "9"
@@ -220,8 +220,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 8,
-        "id_1": 39,
+        "cartodb_id": 51,
+        "id_1": 51,
         "name": "Long An",
         "slug": "long-an",
         "id_region": "9"
@@ -310,8 +310,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 26,
-        "id_1": 18,
+        "cartodb_id": 63,
+        "id_1": 63,
         "name": "Cà Mau",
         "slug": "ca-mau",
         "id_region": "9"
@@ -349,8 +349,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 9,
-        "id_1": 51,
+        "cartodb_id": 61,
+        "id_1": 61,
         "name": "Sóc Trăng",
         "slug": "soc-trang",
         "id_region": "9"
@@ -386,8 +386,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 45,
-        "id_1": 31,
+        "cartodb_id": 60,
+        "id_1": 60,
         "name": "Hậu Giang",
         "slug": "hau-giang",
         "id_region": "9"
@@ -427,8 +427,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 30,
-        "id_1": 59,
+        "cartodb_id": 54,
+        "id_1": 54,
         "name": "Trà Vinh",
         "slug": "tra-vinh",
         "id_region": "9"
@@ -479,8 +479,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 33,
-        "id_1": 3,
+        "cartodb_id": 56,
+        "id_1": 56,
         "name": "Đồng Tháp",
         "slug": "dong-thap",
         "id_region": "9"
@@ -520,8 +520,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 51,
-        "id_1": 61,
+        "cartodb_id": 55,
+        "id_1": 55,
         "name": "Vĩnh Long",
         "slug": "vinh-long",
         "id_region": "9"
@@ -642,8 +642,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 17,
-        "id_1": 33,
+        "cartodb_id": 58,
+        "id_1": 58,
         "name": "Kiên Giang",
         "slug": "kien-giang",
         "id_region": "9"
@@ -691,8 +691,8 @@
         ]
       },
       "properties": {
-        "cartodb_id": 15,
-        "id_1": 58,
+        "cartodb_id": 52,
+        "id_1": 52,
         "name": "Tiền Giang",
         "slug": "tien-giang",
         "id_region": "9"
